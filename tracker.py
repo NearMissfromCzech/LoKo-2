@@ -8,7 +8,7 @@ auth_token = ''
 client = TwilioRestClient(account_sid, auth_token)
 lol_api_key = ''
 
-SUMMONER_NAME = ''
+SUMMONER_NAME = 'radkastara'
 SCREEN_TIME = 2
 SCREEN_TIME_SEC = SCREEN_TIME * 60 * 60
 TWILIO_PHONE_NUMBER = ''
